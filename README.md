@@ -1,8 +1,10 @@
 # Alchemy E-Commerce: Marketing & Content Creation Portfolio
 
+**Live store:** [alchemy1916.com](https://alchemy1916.com/) — *the natural crystal beauty designed for daily luxury*
+
 ## Creative Direction
 
-![Creative Direction](pictures/creative_direction.png) <!-- Placeholder for a mood board or campaign overview image -->
+![Store overview](pictures/store/store2.png)
 
 ## Project Introduction
 
@@ -12,7 +14,7 @@ All visual materials (pictures and videos) featured on this platform were shot b
 
 ### Marketing Assets & Campaign Material
 
-Link: [View Campaign Assets](pictures/) <!-- Placeholder link to where pictures/videos are stored -->
+**Live store:** [alchemy1916.com](https://alchemy1916.com/) · [Campaign assets (product & store imagery)](pictures/)
 
 ## Objective
 
@@ -42,16 +44,15 @@ The objective of this project is to run a **comprehensive end-to-end visual camp
 ```text
 The editing process focused on enhancing product details, ensuring color accuracy, and applying a consistent mood that aligns with the "Alchemy" brand identity. Backgrounds were cleaned, shadows adjusted, and contrast optimized for web viewing.
 ```
-*(Add a before/after image here to showcase Photoshop skills)*
-![Before and After](pictures/before_after_sample.png)
+![Product edit — Dawn's Dew](pictures/product/Dawn%27s%20Dew.png)
 
 **Campaign Visuals — Lifestyle & Product Integration** (Sony a7 IV)
 
 ```text
 Shot with the Sony a7 IV, utilizing its advanced autofocus and dynamic range to capture crisp product details even in complex lighting scenarios. The goal was to create "lifestyle" imagery that helps customers visualize the product in their own lives.
 ```
-*(Add a lifestyle campaign shot here)*
-![Lifestyle Shot](pictures/lifestyle_sample.png)
+
+![Product photography — Lumirose](pictures/product/Lumirose1.png)
 
 ## Store Performance & Analytics
 
@@ -61,8 +62,13 @@ Creating beautiful assets is only half the job—the other half is measuring the
 * **New Customer Acquisition:** [Insert Number, e.g., 1,450] unique customers acquired, demonstrating that the visual content successfully converted visitors into buyers.
 * **Engagement Rate:** [Insert Percentage, e.g., 4.2%] conversion/engagement rate, highlighting the effectiveness of the product photography and lifestyle imagery in driving user action.
 
-*(Add a screenshot of your analytics dashboard here, e.g., Google Analytics, Shopify dashboard, or a custom Power BI/Tableau chart)*
-![Store Analytics Dashboard](pictures/analytics_dashboard_sample.png)
+**Session stats**
+
+![Session stats](pictures/session%20stat.png)
+
+**Customer acquisition**
+
+![Customer number](pictures/customer%20number.png)
 
 ## Executive Summary
 
