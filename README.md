@@ -1,4 +1,4 @@
-# Alchemy E-Commerce: Marketing & Content Creation Portfolio
+E-Commerce: Marketing & Content Creation Portfolio
 
 **Live store:** [alchemy1916.com](https://alchemy1916.com/) — *the natural crystal beauty designed for daily luxury*
 
@@ -12,30 +12,21 @@ This repository showcases **Alchemy**, an e-commerce website designed to highlig
 
 All visual materials (pictures and videos) featured on this platform were shot by me using a **Sony a7 IV** and professionally edited in **Adobe Photoshop**. Beyond asset creation, this project also tracks key e-commerce metrics (session stats, customer acquisition) to measure the real-world impact of the creative direction.
 
-### Marketing Assets & Campaign Material
-
-**Live store:** [alchemy1916.com](https://alchemy1916.com/) · [Campaign assets (product & store imagery)](pictures/)
-
-## Objective
-
-The objective of this project is to run a **comprehensive end-to-end visual campaign** for an e-commerce brand. The goal is to demonstrate my ability to craft compelling marketing materials that attract target audiences, drive engagement, and ultimately support **data-driven marketing decisions**. By owning the creative process from the initial photoshoot to the final website integration and analyzing the resulting store traffic, I can ensure the visual narrative aligns with strategic marketing and sales goals.
-
 ## Tools and Technologies Used
 
 | Category | Tools and Technologies |
 | --- | --- |
 | **Camera Equipment** | **Sony a7 Mark IV** — High-resolution product photography and campaign videography |
 | **Editing & Design** | **Adobe Photoshop** — Color grading, retouching, composition, and graphic design |
-| **Data & Analytics** | **E-commerce Analytics** — Tracking sessions, customer volume, and conversion metrics |
 | **Content Strategy** | Visual storytelling, brand identity development, and conversion-focused asset creation |
-| **Web Presentation** | E-commerce storefront structure to showcase marketing materials effectively |
+| **Web Presentation** | Storefront shows brand aesthetic, I learnt from Aesop and focus on relaxing online shopping experience |
 
 ## Skill Highlights
 
-- **Product Photography (Sony a7 IV)**: Executed professional product shoots, focusing on lighting, composition, and brand aesthetics to capture high-quality raw assets for the "Alchemy" brand. 
-- **Photo & Asset Editing (Adobe Photoshop)**: Performed advanced retouching, color correction, and creative compositing. Transformed raw photos into polished, conversion-ready marketing assets suitable for web, social media, and ad placements.
-- **Marketing Data Analysis**: Monitored store performance metrics to evaluate the success of the visual assets, tracking user sessions, unique visitors, and customer acquisition to inform future content strategies.
-- **Campaign Content Creation**: Developed a cohesive visual identity across the e-commerce platform, ensuring that all images and videos work together to tell a compelling brand story and drive consumer interest.
+- **Product Photography (Sony a7 IV)** — Lighting, composition, and brand-focused product shoots.
+- **Photo & Asset Editing (Adobe Photoshop)** — Retouching, color correction, and assets for web and social.
+- **Marketing Data Analysis** — Session stats, customer acquisition, and performance tracking.
+- **Campaign Content Creation** — Cohesive visual identity and brand storytelling across the store.
 
 ## Creative Highlights
 
@@ -72,18 +63,13 @@ Creating beautiful assets is only half the job—the other half is measuring the
 
 ## Executive Summary
 
-This project presents the "Alchemy" e-commerce brand as a complete case study in visual marketing, content production, and performance analysis. 
-
-**Key findings & approach:** High-quality visual assets are the foundation of any successful marketing campaign. By utilizing professional gear (Sony a7 IV) and industry-standard editing software (Adobe Photoshop), I created a suite of marketing materials designed to maximize user engagement. Furthermore, by tracking session statistics and customer numbers, I validated the effectiveness of the creative strategy with hard data.
-
-The visual strategy focuses on consistency, brand storytelling, and product clarity. Every image was shot and edited with the end consumer in mind, ensuring the assets are not only aesthetically pleasing but also optimized to drive traffic and sales.
+This project is a case study in visual marketing, content production, and performance analysis for the Alchemy brand. High-quality assets (Sony a7 IV + Adobe Photoshop) were created for engagement, and session/customer metrics were used to validate the creative strategy.
 
 **Takeaways:**
 
-1. **End-to-End Campaign Execution:** Demonstrated the ability to own the creative process from concept and shooting to post-production and web integration.
-2. **Data-Driven Marketing:** Paired creative asset production with store analytics (sessions, customer numbers) to measure and prove the ROI of the visual campaign.
-3. **Technical Photography Skills:** Leveraged the capabilities of the Sony a7 IV to produce high-resolution, versatile marketing assets.
-4. **Advanced Editing Proficiency:** Showcased Adobe Photoshop skills to refine, retouch, and perfect images for commercial use.
-5. **Marketing Synergy:** Blended creative content production with the analytical mindset of a Marketing Data Analyst, bridging the gap between what looks good and what actually performs well in the market.
+1. **End-to-end execution** — Owned the process from shoot to post-production and web.
+2. **Data-driven** — Combined creative production with store analytics to measure ROI.
+3. **Photography & editing** — Sony a7 IV and Photoshop for commercial-ready assets.
+4. **Marketing synergy** — Creative content + analytical mindset; what looks good and what performs.
 
 ---
