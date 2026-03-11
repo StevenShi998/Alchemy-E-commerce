@@ -45,6 +45,12 @@ Shot with the Sony a7 IV, utilizing its advanced autofocus and dynamic range to 
 
 ![Product photography — Lumirose](pictures/product/Lumirose1.png)
 
+## Email Marketing
+
+Newsletter and promotional emails designed to match the Alchemy brand—driving repeat visits and conversions with on-brand visuals and copy.
+
+![Email marketing](pictures/Email%20Marketing.png)
+
 ## Store Performance & Analytics
 
 Creating beautiful assets is only half the job—the other half is measuring their impact. Below is a snapshot of the e-commerce store's performance metrics, driven by the visual marketing campaigns:
